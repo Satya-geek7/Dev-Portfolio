@@ -14,7 +14,7 @@ const NotFound = lazy(() => import("./pages/NotFound"));
 
 function App() {
   return (
-    <Router>
+    <Router >
       <Toaster
         position="top-right"
         toastOptions={{
