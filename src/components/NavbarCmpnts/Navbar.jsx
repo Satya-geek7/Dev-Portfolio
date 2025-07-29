@@ -51,7 +51,7 @@ const Navbar = ({ bg }) => {
           } transition-all duration-300`}
         >
           <nav className="text-white py-8 px-8 md:px-32 lg:px-64 flex items-center">
-            <div className="lg:pl-10 text-[#a259ff] font-bold lg:text-[38px] md:text-[25px] hover:cursor-pointer">
+            <div className="lg:pl-10 text-[#a259ff] font-bold lg:text-[40px] md:text-[30px] text-[25px] hover:cursor-pointer">
               {name}
             </div>
             <ul className="ml-auto flex flex-row lg:gap-x-10 md:gap-x-4 gap-x-2 lg:mr-6">
