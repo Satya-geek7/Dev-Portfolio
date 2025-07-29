@@ -3,17 +3,17 @@
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://satyaprakashportfolio.vercel.app/</loc>
+    <loc>https://satyageek.vercel.app/</loc>
     <priority>1.0</priority>
   </url>
 
   <url>
-    <loc>https://satyaprakashportfolio.vercel.app/recruitme</loc>
+    <loc>https://satyageek.vercel.app/recruitme</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://satyaprakashportfolio.vercel.app/projects</loc>
+    <loc>https://satyageek.vercel.app/projects</loc>
     <priority>0.8</priority>
   </url>
 
