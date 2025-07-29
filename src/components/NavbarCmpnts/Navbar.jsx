@@ -79,7 +79,11 @@ const Navbar = ({ bg }) => {
         </div>
       </div>
 
-      <div className={`${bg} md:hidden fixed top-0 left-0 w-full z-50`}>
+      <div
+        className={`${bg} md:hidden fixed top-0 left-0 w-full z-50 transition-all duration-300 ease-in-out ${
+          isNavup ? "translate-y-0 opacity-100" : "-translate-y-full opacity-0"
+        }`}
+      >
         <nav className="text-white py-6 px-6 flex items-center justify-between">
           <div className="text-rose-500 font-bold text-xl">{name}</div>
           <button
