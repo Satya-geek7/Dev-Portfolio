@@ -83,9 +83,12 @@ Welcome to my personal developer portfolio website! This is a fully responsive, 
 
 To run this project locally on your machine:
 
-### 1. Clone the Repository
+### 1. Clone this Repo
 
-````bash
+
+```bash
+## 1.Clone in your local machine
+
 git clone https://github.com/yourusername/portfolio.git
 cd DEV-PORTFOLIO-1
 
@@ -98,8 +101,9 @@ npm install or npm i
 
 ```bash
 npm run dev
+```
 
-
+---
 
 ## ⚙️ Personal Info
 
@@ -107,7 +111,7 @@ npm run dev
 I’m Satya Prakash Behera, a passionate frontend developer currently pursuing B.Tech in CSE (5th Semester, 8.1 SGPA). I specialize in building responsive, fast, and aesthetically pleasing web interfaces using modern technologies like React.js, TailwindCSS, and Framer Motion.
 
 
-## 🚀 My interests lie in frontend SaaS, developer tools, productivity apps, and Web3 UI integration.
+### 🚀 My interests lies in frontend SaaS, developer tools, productivity apps, and Web3 UI integration.
 
 
 🧠 Learnings from This Project
@@ -125,7 +129,7 @@ While building this portfolio, I learned:
 Want to work together or have a project idea? Let’s connect!
 
 - 📧 Email: [the.satyabehera@gmail.com](mailto:the.satyabehera@gmail.com)
-- 💼 LinkedIn: [Satya Prakash Behera](www.linkedin.com/in/satya-prakash-behera007)
+- 💼 LinkedIn: [Satya Prakash Behera](https://linkedin.com/in/satya-prakash-behera007)
 - 🐙 GitHub: [@Satya-geek7](https://github.com/Satya-geek7)
 - 🌐 Portfolio: [satyageek.vercel.app](https://satyageek.vercel.app)
 
@@ -137,7 +141,7 @@ Want to work together or have a project idea? Let’s connect!
 
 Thanks for taking the time to check out my portfolio. If you liked what you saw or are interested in working together, feel free to reach out via email or LinkedIn. I'm always open to exciting collaborations and remote opportunities!
 
+```
 > Built with love by Satya Prakash Behera 💻
-
-⭐️ If you found this helpful, consider starring the repo!
-````
+>⭐️ If you found this helpful, consider starring the repo!
+```
