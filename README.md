@@ -1,4 +1,4 @@
-# 🧑‍💻 Satya Prakash Behera — Personal Developer Portfolio
+# 🧑‍💻 Satya Prakash Behera — Portfolio
 
 Welcome to my personal developer portfolio website! This is a fully responsive, modern, and production-ready portfolio built to showcase my skills, projects, experience, and contact information. Built with ❤️ using React.js, TailwindCSS, and a clean component-driven design approach.
 
@@ -11,8 +11,6 @@ Welcome to my personal developer portfolio website! This is a fully responsive, 
 ---
 
 ## 📸 Screenshots
-
-> Note: Replace with actual screenshots in a `/screenshots` folder
 
 ### 🖥️ Home Page
 
@@ -61,6 +59,7 @@ Welcome to my personal developer portfolio website! This is a fully responsive, 
 
 ## 📁 Folder Structure
 
+```
 ├── public/
 ├── src/
 │ ├── assets/ # Images, icons
@@ -78,6 +77,7 @@ Welcome to my personal developer portfolio website! This is a fully responsive, 
 ├── tailwind.config.js
 ├── postcss.config.js
 ├── README.md
+```
 
 ## ⚙️ Getting Started Locally
 
