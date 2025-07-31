@@ -20,11 +20,11 @@ Welcome to my personal developer portfolio website! This is a fully responsive, 
 
 ![About](./public/screenshots//AboutPage.png)
 
-### 📁 Projects Section
+### 📁 Projects Page
 
 ![Projects](./public/screenshots//ProjectsPage.png)
 
-### 📞 Contact Page
+### 📞 Recruiter's/Contact Page
 
 ![Contact](./public/screenshots//RecruitPage.png)
 
@@ -84,7 +84,11 @@ Welcome to my personal developer portfolio website! This is a fully responsive, 
 To run this project locally on your machine:
 
 
+### 1.Initialize the git
 
+```
+> git init
+```
 ### 1.Clone in your local machine
 
 ```
@@ -95,7 +99,7 @@ To run this project locally on your machine:
 ### 2. Install Dependencies
 
 ```
-> npm install or npm i
+> npm install
 ```
 
 ### Run the dev server
