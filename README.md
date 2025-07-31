@@ -92,7 +92,7 @@ To run this project locally on your machine:
 ### 2. Clone in your local machine
 
 ```
-> git clone https://github.com/yourusername/portfolio.git
+> git clone https://github.com/Satya-geek7/Dev-Portfolio.git
 > cd <your-filename>
 ```
 
