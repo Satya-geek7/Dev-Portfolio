@@ -89,20 +89,20 @@ To run this project locally on your machine:
 ```
 > git init
 ```
-### 1.Clone in your local machine
+### 2.Clone in your local machine
 
 ```
 > git clone https://github.com/yourusername/portfolio.git
 > cd <your-filename>
 ```
 
-### 2. Install Dependencies
+### 3. Install Dependencies
 
 ```
 > npm install
 ```
 
-### Run the dev server
+### 4.Run the dev server
 
 ```
 > npm run dev
