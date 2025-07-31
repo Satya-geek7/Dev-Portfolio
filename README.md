@@ -83,24 +83,25 @@ Welcome to my personal developer portfolio website! This is a fully responsive, 
 
 To run this project locally on your machine:
 
-### 1. Clone this Repo
 
 
-```bash
-## 1.Clone in your local machine
+### 1.Clone in your local machine
 
-git clone https://github.com/yourusername/portfolio.git
-cd DEV-PORTFOLIO-1
+```
+> git clone https://github.com/yourusername/portfolio.git
+> cd <your-filename>
+```
 
 ### 2. Install Dependencies
 
-```bash
-npm install or npm i
+```
+> npm install or npm i
+```
 
 ### Run the dev server
 
-```bash
-npm run dev
+```
+> npm run dev
 ```
 
 ---
@@ -108,7 +109,7 @@ npm run dev
 ## ⚙️ Personal Info
 
 🧑‍💼 About Me
-I’m Satya Prakash Behera, a passionate frontend developer currently pursuing B.Tech in CSE (5th Semester, 8.1 SGPA). I specialize in building responsive, fast, and aesthetically pleasing web interfaces using modern technologies like React.js, TailwindCSS, and Framer Motion.
+I’m Satya Prakash Behera, a passionate frontend developer currently pursuing B.Tech in CSE (4th Semester, 8.1 SGPA). I specialize in building responsive, fast, and aesthetically pleasing web interfaces using modern technologies like React.js, TailwindCSS, and Framer Motion.
 
 
 ### 🚀 My interests lies in frontend SaaS, developer tools, productivity apps, and Web3 UI integration.
