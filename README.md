@@ -84,12 +84,12 @@ Welcome to my personal developer portfolio website! This is a fully responsive, 
 To run this project locally on your machine:
 
 
-### 1.Initialize the git
+### 1. Initialize the git
 
 ```
 > git init
 ```
-### 2.Clone in your local machine
+### 2. Clone in your local machine
 
 ```
 > git clone https://github.com/yourusername/portfolio.git
@@ -102,7 +102,7 @@ To run this project locally on your machine:
 > npm install
 ```
 
-### 4.Run the dev server
+### 4. Run the dev server
 
 ```
 > npm run dev
